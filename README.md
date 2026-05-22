@@ -10,7 +10,7 @@ Here I learn the basics such as:
 - Crates
 
 Crates Used:
-- std - Rust Standard Library
-    - std::cmp::Ordering - for comparing
-    - std::io - for input/output
-- rand - External rust crate
+- `std` - Rust Standard Library
+    - `std::cmp::Ordering`- for comparing
+    - `std::io` - for input/output
+- `rand` - External rust crate
